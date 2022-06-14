@@ -1,8 +1,19 @@
-# Cryptour
+# Cryptour 💵
 Cryptour ist ein Tourenportal, welches es den Erstellern der Touren erlaubt, am Verkauf der Touren beteiligt zu werden. Hierzu wird die Ethereum Blockchain  mit einem [Automated-Marketmaker](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) verwendet.
 
 ## Anleitung zur lokalen Installation ⚒️
 1. Clonen der Repositories [Cryp-Tour/server](https://github.com/Cryp-Tour/server) und [Cryp-Tour/website](https://github.com/Cryp-Tour/website) in einen Ordner
-2. Herunterladen der Docker Compose Datei [hier](LINK NEEDED)
+2. Herunterladen der Docker Compose Datei von [hier](https://github.com/Cryp-Tour/.github/blob/main/docker-compose.yml)
 3. Ausführen von `docker-compose up`
-4. Cryptour über `http://localhost:8080` aufrufen
+4. Neu erstellter `data` Ordner mit `chmod` rekursiv auf alle Dateien die Rechte 777 vergeben (`sudo chmod -R 777 data`)
+5. `docker-compose up` erneut ausführen
+6. Cryptour über `http://localhost:8080` aufrufen
+
+## Wichtige Dokumente 📜
+ - [SRS](https://github.com/Cryp-Tour/website/blob/main/doc/Software%20Requirements%20Specification.pdf)
+ - [Features](https://github.com/Cryp-Tour/website/blob/main/doc/Features.pdf)
+
+## Wichtige Links 🔗
+ - [Allgemeines Board](https://github.com/orgs/Cryp-Tour/projects/1)
+ - [Server Board](https://github.com/Cryp-Tour/server/projects/1)
+ - [Website Board](https://github.com/Cryp-Tour/website/projects/1)
