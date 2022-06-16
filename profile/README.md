@@ -10,8 +10,9 @@ Cryptour ist ein Tourenportal, welches es den Erstellern der Touren erlaubt, am 
 6. Cryptour über `http://localhost:8080` aufrufen
 
 ## Wichtige Dokumente 📜
- - [SRS](https://github.com/Cryp-Tour/website/blob/main/doc/Software%20Requirements%20Specification.pdf)
- - [Features](https://github.com/Cryp-Tour/website/blob/main/doc/Features.pdf)
+ - [SRS](https://github.com/Cryp-Tour/dokumentation/blob/main/allgemein/Software%20Requirements%20Specification.pdf)
+ - [Features](https://github.com/Cryp-Tour/dokumentation/blob/main/allgemein/Features.pdf)
+ - [Dokumentation](https://github.com/Cryp-Tour/dokumentation/blob/main/README.md)
 
 ## Wichtige Links 🔗
  - [Allgemeines Board](https://github.com/orgs/Cryp-Tour/projects/1)
