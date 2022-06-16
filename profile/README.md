@@ -18,3 +18,4 @@ Cryptour ist ein Tourenportal, welches es den Erstellern der Touren erlaubt, am 
  - [Allgemeines Board](https://github.com/orgs/Cryp-Tour/projects/1)
  - [Server Board](https://github.com/Cryp-Tour/server/projects/1)
  - [Website Board](https://github.com/Cryp-Tour/website/projects/1)
+ - [Dokumentations Board](https://github.com/Cryp-Tour/dokumentation/projects/1)
