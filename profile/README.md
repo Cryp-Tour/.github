@@ -1,6 +1,8 @@
 # Cryptour 💵
 Cryptour ist ein Tourenportal, welches es den Erstellern der Touren erlaubt, am Verkauf der Touren beteiligt zu werden. Hierzu wird die Ethereum Blockchain  mit einem [Automated-Marketmaker](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) verwendet.
 
+## [Zur Website](https://cryptour.dullmer.de)
+
 ## Anleitung zur lokalen Installation ⚒️
 1. Clonen der Repositories [Cryp-Tour/server](https://github.com/Cryp-Tour/server) und [Cryp-Tour/website](https://github.com/Cryp-Tour/website) in einen Ordner
 2. Im Website Repository in `js/config.js` die Base-URL auf `http://localhost:3030` setzen
