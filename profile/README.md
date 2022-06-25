@@ -3,11 +3,12 @@ Cryptour ist ein Tourenportal, welches es den Erstellern der Touren erlaubt, am 
 
 ## Anleitung zur lokalen Installation ⚒️
 1. Clonen der Repositories [Cryp-Tour/server](https://github.com/Cryp-Tour/server) und [Cryp-Tour/website](https://github.com/Cryp-Tour/website) in einen Ordner
-2. Herunterladen der Docker Compose Datei von [hier](https://github.com/Cryp-Tour/.github/blob/main/docker-compose.yml)
-3. Ausführen von `docker-compose up`
-4. Neu erstellter `data` Ordner mit `chmod` rekursiv auf alle Dateien die Rechte 777 vergeben (`sudo chmod -R 777 data`)
-5. `docker-compose up` erneut ausführen
-6. Cryptour über `http://localhost:8080` aufrufen
+2. Im Website Repository in `js/config.js` die Base-URL auf `http://localhost:3030` setzen
+3. Herunterladen der Docker Compose Datei von [hier](https://github.com/Cryp-Tour/.github/blob/main/docker-compose.yml)
+4. Ausführen von `docker-compose up`
+5. Neu erstellter `data` Ordner mit `chmod` rekursiv auf alle Dateien die Rechte 777 vergeben (`sudo chmod -R 777 data`)
+6. `docker-compose up` erneut ausführen
+7. Cryptour über `http://localhost:8080` aufrufen
 
 ## Wichtige Dokumente 📜
  - [SRS](https://github.com/Cryp-Tour/dokumentation/blob/main/allgemein/Software%20Requirements%20Specification.pdf)
